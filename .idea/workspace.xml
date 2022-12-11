@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc030a68-b70b-4b1c-bb81-8c1bcfe5312d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/test.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2INPVamxRnPBDVDGMypYXCSBTtV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/trio/IdeaProjects/aoc2022/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/day1" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Day7Kt">
+    <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="bbPath" value="" />
+      <setting name="parameters" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <setting name="workingDir" value="" />
+      <setting name="focusEditor" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <setting name="focusEditor" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="replPortFileType" value="STANDARD" />
+      <setting name="customPortFile" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <setting name="focusEditor" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Day3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3Kt" />
+      <module name="aoc2022.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day4Kt" />
+      <module name="aoc2022.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day5Kt" />
+      <module name="aoc2022.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day6Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day6Kt" />
+      <module name="aoc2022.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day7Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day7Kt" />
+      <module name="aoc2022.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Day7Kt" />
+        <item itemvalue="Kotlin.Day6Kt" />
+        <item itemvalue="Kotlin.Day5Kt" />
+        <item itemvalue="Kotlin.Day4Kt" />
+        <item itemvalue="Kotlin.Day3Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc030a68-b70b-4b1c-bb81-8c1bcfe5312d" name="Changes" comment="" />
+      <created>1670019099327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670019099327</updated>
+      <workItem from="1670019101177" duration="5444000" />
+      <workItem from="1670062040019" duration="2023000" />
+      <workItem from="1670064308967" duration="195000" />
+      <workItem from="1670148413976" duration="1423000" />
+      <workItem from="1670264427590" duration="4683000" />
+      <workItem from="1670351509693" duration="1454000" />
+      <workItem from="1670449623709" duration="4391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
