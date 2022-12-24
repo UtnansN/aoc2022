@@ -59,9 +59,8 @@ class Day16 {
                     val newVisited = HashSet(visited).apply<HashSet<String>> { add(it.first) }
                     exploreB(it.first, minutesLeft - it.second - 1, newScore, newVisited)
                 }
-                if (exploreMap.getOrDefault(visited, 0) < newScore) {
-                    exploreMap[visited] = newScore
-                }
+
+                exploreMap[visited] = max(exploreMap.getOrDefault(visited, 0), newScore)
             }
     }
 
